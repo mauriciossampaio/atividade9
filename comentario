@@ -1,0 +1,4 @@
+/* da pra observa que o desempenho está diretamente relacionado à eficiência do algoritmo de inserção utilizado
+o desempenho da inserção pode variar com base na implementação específica do compilador e no hardware em que o código é executado 
+e a escolha de estruturas de dados e algoritmos pode ter um impacto significativo no desempenho geral do programa.
+*/
